@@ -11,4 +11,5 @@ elif country == 'American':
         print('over 16 you can get the license')
     else:
         print('Wait for 16')       
-   
+else:
+    print('Only for Taiwan and USA')   
